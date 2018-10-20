@@ -11,3 +11,5 @@
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - Chromium browser
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
+
+![Java EE](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/JavaEE.png)
