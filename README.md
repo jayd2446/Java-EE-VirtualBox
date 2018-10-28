@@ -4,7 +4,7 @@
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable)
 - OpenJDK 8
 - Eclipse Photon Java EE with Maven, Egit (Git) and Subversive (SVN Team Provider)
-- PostgreSQL
+- PostgreSQL and pgadmin3
 - PuTTy
 - FileZilla
 - Basic python http server included. Example: python3 -m http.server 8080
@@ -12,4 +12,11 @@
 - Chromium browser
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
-![Java EE](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/JavaEE.png)
+![PuTTy](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/putty.png)
+![Eclipse](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipse.png)
+![PgAdmin3](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/pgadmin.png)
+![FlleZilla](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/filezilla.png)
+![Chromium](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/chromium.png)
+
+
+
