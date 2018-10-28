@@ -4,7 +4,7 @@
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable)
 - OpenJDK 8
 - Eclipse Photon Java EE with Maven, Egit (Git) and Subversive (SVN Team Provider)
-- PostgreSQL and pgadmin3
+- PostgreSQL and pgAdmin
 - PuTTy
 - FileZilla
 - Basic python http server included. Example: python3 -m http.server 8080
