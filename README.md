@@ -1,7 +1,7 @@
 # Java EE VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Java-EE-VirtualBox/releases/download/latest/JavaEE.ova)
 
 - Minimal Lubuntu 18.04.1 as a lightweight base
-- VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable)
+- VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - OpenJDK 8
 - Eclipse Photon Java EE with Maven, Egit (Git) and Subversive (SVN Team Provider)
 - PostgreSQL and pgAdmin
