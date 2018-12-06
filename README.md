@@ -13,7 +13,7 @@
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
 ![PuTTy](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/putty.png)
-![Eclipse](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipse.png)
+![Eclipse](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseAbout.png)
 ![Jasper](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/jasper.png)
 ![PgAdmin3](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/pgadmin.png)
 ![FlleZilla](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/filezilla.png)
