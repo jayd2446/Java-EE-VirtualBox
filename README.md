@@ -1,4 +1,4 @@
-# Java EE VirtualBox [![OVA](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/ovaIcon.png) DOWNLOAD](https://github.com/Virtual-Machines/Java-EE-VirtualBox/releases/download/latest/JavaEE.ova)
+# Java EE VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Java-EE-VirtualBox/releases/download/latest/JavaEE.ova)
 
 - Minimal Lubuntu 18.04.1 as a lightweight base (lubuntu-core package)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
@@ -21,6 +21,3 @@
 ![FlleZilla](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/filezilla.png)
 ![Chromium](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/chromium.png)
 ![Gnumeric](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/gnumeric.png)
-
-
-
