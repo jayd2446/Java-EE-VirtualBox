@@ -3,7 +3,7 @@
 - Minimal Lubuntu 18.04.1 as a lightweight base (lubuntu-core package)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - OpenJDK 8
-- Eclipse Photon Java EE with Maven, JasperSoft (Jasper Reports), Egit (Git) and Subversive (SVN Team Provider)
+- Eclipse 4.10 (2018-12) Java EE with Maven, JasperSoft (Jasper Reports), Egit (Git) and Subversive (SVN Team Provider)
 - PostgreSQL and pgAdmin
 - PuTTy
 - FileZilla
