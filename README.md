@@ -20,6 +20,7 @@
 ![PuTTy](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/putty.png)
 ![Eclipse](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseAbout.png)
 ![Jasper](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/jasper.png)
+![SonarLint](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/SonarLint.png)
 ![PgAdmin3](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/pgadmin.png)
 ![FlleZilla](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/filezilla.png)
 ![Chromium](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/chromium.png)
