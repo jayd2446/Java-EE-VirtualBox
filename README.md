@@ -3,7 +3,10 @@
 - Minimal Lubuntu 18.04.1 as a lightweight base (lubuntu-core package)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - OpenJDK 8
-- Eclipse 4.10 (2018-12) Java EE with Maven, Gradle, JPA, JSF, Mylyn, JasperSoft (Jasper Reports), Egit (Git), SonarLint (realtime code audit by Sonarsource, the creators of SonarQube) and Subversive (SVN Team Provider)
+- Eclipse 4.10 (2018-12) Java EE with Maven, Gradle, JPA, JSF, Mylyn and Egit (Git)
+- JasperSoft Community (Jasper Reports) as Eclipse plugin
+- SonarLint (realtime code audit by Sonarsource, the creators of SonarQube) as Eclipse plugin
+- Subversive (SVN Team Provider) as Eclipse plugin
 - PostgreSQL and pgAdmin
 - PuTTy
 - FileZilla
