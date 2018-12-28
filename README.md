@@ -18,6 +18,7 @@
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
 ![PuTTy](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/putty.png)
+![Eclipse Marketplace](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseMarketplace.png)
 ![Eclipse](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseAbout.png)
 ![Jasper](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/jasper.png)
 ![SonarLint](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/SonarLint.png)
