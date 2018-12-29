@@ -17,6 +17,8 @@
 - Gnumeric: a spreadsheet computer program that can automate scripts through formulas like Excel and Calc
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
+[**OPINION**](https://docs.google.com/forms/d/1FHgWDZyQsE8-zDAmjBC0LPR09UpYkPNhy0g67J84Rog)
+
 ![PuTTy](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/putty.png)
 ![Eclipse Marketplace](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseMarketplace.png)
 ![Eclipse](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseAbout.png)
