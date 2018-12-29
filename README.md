@@ -19,7 +19,7 @@
 
 [**OPINION**](https://docs.google.com/forms/d/1FHgWDZyQsE8-zDAmjBC0LPR09UpYkPNhy0g67J84Rog)
 
-Gallery:
+**Gallery:**
 
 ![PuTTy](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/putty.png)
 ![Eclipse Marketplace](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseMarketplace.png)
