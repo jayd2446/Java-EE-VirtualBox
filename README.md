@@ -17,7 +17,7 @@
 - Gnumeric: a spreadsheet computer program that can automate scripts through formulas like Excel and Calc
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
-[**OPINION**](https://docs.google.com/forms/d/1FHgWDZyQsE8-zDAmjBC0LPR09UpYkPNhy0g67J84Rog)
+[**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
 
 **GALLERY**
 
