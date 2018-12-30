@@ -3,9 +3,9 @@
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - OpenJDK 8
 - Eclipse 4.10 (2018-12) Java EE with Maven, Gradle, JPA, JSF, Mylyn and Egit (Git)
-- JasperSoft Community (Jasper Reports) as Eclipse plugin
-- SonarLint (real-time code audit by Sonarsource, the creators of SonarQube) as Eclipse plugin
-- Subversive (SVN Team Provider) as Eclipse plugin with connector installed
+- JasperSoft Community (Jasper Reports) as Eclipse plugin (with telemetry disabled)
+- SonarLint (real-time code audit by Sonarsource, the creators of SonarQube) as Eclipse plugin (with telemetry disabled)
+- Subversive (SVN Team Provider) as Eclipse plugin. The SVN connector is installed.
 - PostgreSQL and pgAdmin
 - PuTTy
 - FileZilla
