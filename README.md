@@ -9,7 +9,7 @@
 - PostgreSQL and pgAdmin
 - PuTTy
 - FileZilla
-- Local mail testing server easy to integrate with javax.mail: Postfix, mailutils, courier-pop and courier-imap
+- Local mail testing server easy to integrate with javax.mail: Postfix (SMTP), mailutils, courier-pop and courier-imap
 - Mail account example: lubuntu@lubuntu
 - Mozilla Thunderbird as mail client
 - Basic python http server included. Example: python3 -m http.server 8080
