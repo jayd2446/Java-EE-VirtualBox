@@ -9,8 +9,9 @@
 - PostgreSQL and pgAdmin
 - PuTTy
 - FileZilla
-- Local mail testing server: Postfix, mailutils, courier-pop and courier-imap
-- ThunderBird as mail client
+- Local mail testing server easy to integrate with javax.mail: Postfix, mailutils, courier-pop and courier-imap
+- Mail account example: lubuntu@lubuntu
+- Mozilla Thunderbird as mail client
 - Basic python http server included. Example: python3 -m http.server 8080
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - Chromium browser
