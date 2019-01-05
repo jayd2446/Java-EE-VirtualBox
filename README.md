@@ -32,3 +32,4 @@
 ![FlleZilla](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/filezilla.png)
 ![Chromium](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/chromium.png)
 ![Gnumeric](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/gnumeric.png)
+![Mail](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/mail.png)
