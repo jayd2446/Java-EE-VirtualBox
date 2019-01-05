@@ -10,8 +10,7 @@
 - PuTTy
 - FileZilla
 - Local mail testing server easy to integrate with javax.mail: Postfix (SMTP), mailutils, courier-pop and courier-imap
-- Mail account example: lubuntu@lubuntu
-- Mozilla Thunderbird as mail client
+- Mozilla Thunderbird as mail client with account example: lubuntu@lubuntu
 - Basic python http server included. Example: python3 -m http.server 8080
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - Chromium browser
