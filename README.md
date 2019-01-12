@@ -16,8 +16,8 @@
 - Chromium browser
 - Useful tools for website images processing and optimization: optipng, pngquant, jpegoptim and ImageMagick
 - Gnumeric: a spreadsheet computer program that can automate scripts through formulas like Excel and Calc
-- User and pass of system is the same: **lubuntu**
-- Postgresql pass is the default: **postgres**
+- User and pass of system is the same: **lubuntu
+- Postgresql pass is the default: **postgres
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
