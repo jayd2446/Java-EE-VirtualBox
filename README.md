@@ -4,7 +4,7 @@
 - OpenJDK 8
 - Eclipse 4.10 (2018-12) Java EE with Maven, Gradle, JPA, JSF, Mylyn and Egit (Git)
 - JasperSoft Studio Community (JasperReports) as Eclipse plugin (with telemetry disabled)
-- SonarLint (real-time code audit by Sonarsource, the creators of SonarQube) as Eclipse plugin (with telemetry disabled)
+- SonarLint (real-time code audit by SonarSource, the creators of SonarQube) as Eclipse plugin (with telemetry disabled)
 - Subversive (SVN Team Provider) as Eclipse plugin (SVN connector installed and configured)
 - PostgreSQL and pgAdmin
 - PuTTy
