@@ -32,6 +32,7 @@
 ![SonarLint](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/SonarLint.png)
 ![PgAdmin3](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/pgadmin.png)
 ![FlleZilla](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/filezilla.png)
+![Mozilla Firefox](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/firefox.png)
 ![Chromium](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/chromium.png)
 ![Gnumeric](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/gnumeric.png)
 ![Mail](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/mail.png)
