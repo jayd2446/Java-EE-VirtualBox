@@ -13,6 +13,7 @@
 - Mozilla Thunderbird as mail client with account example: lubuntu@lubuntu
 - Basic python http server included. Example: python3 -m http.server 8080
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
+- Mozilla Firefox
 - Chromium browser
 - Useful tools for website images processing and optimization: optipng, pngquant, jpegoptim and ImageMagick
 - Gnumeric: a spreadsheet computer program that can automate scripts through formulas like Excel and Calc
