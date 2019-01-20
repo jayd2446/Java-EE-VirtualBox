@@ -15,6 +15,7 @@
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - Mozilla Firefox
 - Chromium browser
+- Selenium IDE extension in both web browsers
 - Useful tools for website images processing and optimization: optipng, pngquant, jpegoptim and ImageMagick
 - Gnumeric: a spreadsheet computer program that can automate scripts through formulas like Excel and Calc
 - User and pass of system is the same: **lubuntu**
@@ -34,5 +35,6 @@
 ![FlleZilla](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/filezilla.png)
 ![Mozilla Firefox](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/firefox.png)
 ![Chromium](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/chromium.png)
+![Selenium IDE](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/SeleniumIDE.png)
 ![Gnumeric](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/gnumeric.png)
 ![Mail](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/mail.png)
