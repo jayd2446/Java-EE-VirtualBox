@@ -1,4 +1,5 @@
 # Java EE VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Java-EE-VirtualBox/releases/download/latest/JavaEE.ova)
+![Show](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/show.gif)
 - Minimal Lubuntu 18.04.1 as a lightweight base (lubuntu-core package)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - OpenJDK 8
@@ -21,10 +22,6 @@
 - User and pass of system is the same: **lubuntu**
 - Postgresql pass is the default: **postgres**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
-
-# SHOW
-
-![Show](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/show.gif)
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
 
