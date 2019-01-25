@@ -24,7 +24,7 @@
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
 
-**GALLERY**
+# **GALLERY**
 
 ![PuTTy](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/putty.png)
 ![Eclipse Marketplace](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseMarketplace.png)
