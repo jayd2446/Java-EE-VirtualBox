@@ -1,5 +1,6 @@
 # Java EE VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Java-EE-VirtualBox/releases/download/latest/JavaEE.ova)
 Eclipse Java EE development environment on a virtual machine. VirtualBox OVA file
+
 ![Show](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/show.gif)
 - Minimal Lubuntu 18.04.1 as a lightweight base (lubuntu-core package)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
