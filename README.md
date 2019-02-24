@@ -40,4 +40,4 @@
 ![Gnumeric](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/gnumeric.png)
 ![Mail](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/mail.png)
 
-If you only need Eclipse: [Download Eclipse.ova](https://github.com/Virtual-Machines/Java-EE-VirtualBox/releases/download/latest/Eclipse.ova)
+If you only need Eclipse and browser: [Download Eclipse.ova](https://github.com/Virtual-Machines/Java-EE-VirtualBox/releases/download/latest/Eclipse.ova)
