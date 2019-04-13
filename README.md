@@ -1,5 +1,20 @@
 # Java EE VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Java-EE-VirtualBox/releases/download/latest/JavaEE.ova) - [VIDEO](https://www.youtube.com/watch?v=gZabXYjjU3k)
 
+![PuTTy](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/putty.png)
+![Eclipse Marketplace](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseMarketplace.png)
+![Eclipse](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseAbout.png)
+![Jasper](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/jasper.png)
+![SonarLint](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/SonarLint.png)
+![PgAdmin3](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/pgadmin.png)
+![FlleZilla](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/filezilla.png)
+![Mozilla Firefox](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/firefox.png)
+![Chromium](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/chromium.png)
+![Selenium IDE](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/SeleniumIDE.png)
+![Gnumeric](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/gnumeric.png)
+![Mail](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/mail.png)
+
+If you only need Eclipse and browser: [Download Eclipse.ova](https://github.com/Virtual-Machines/Java-EE-VirtualBox/releases/download/latest/Eclipse.ova)
+
 - Minimal Lubuntu 18.04.1 as a lightweight base (lubuntu-core package)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - OpenJDK 8
@@ -25,19 +40,4 @@
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
 
-# GALLERY
 
-![PuTTy](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/putty.png)
-![Eclipse Marketplace](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseMarketplace.png)
-![Eclipse](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseAbout.png)
-![Jasper](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/jasper.png)
-![SonarLint](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/SonarLint.png)
-![PgAdmin3](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/pgadmin.png)
-![FlleZilla](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/filezilla.png)
-![Mozilla Firefox](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/firefox.png)
-![Chromium](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/chromium.png)
-![Selenium IDE](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/SeleniumIDE.png)
-![Gnumeric](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/gnumeric.png)
-![Mail](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/mail.png)
-
-If you only need Eclipse and browser: [Download Eclipse.ova](https://github.com/Virtual-Machines/Java-EE-VirtualBox/releases/download/latest/Eclipse.ova)
