@@ -38,6 +38,6 @@ If you only need Eclipse and browser: [Download Eclipse.ova](https://github.com/
 - Postgresql pass is the default: **postgres**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
-[**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
+[**OPINION**](https://github.com/Virtual-Machines/Java-EE-VirtualBox/issues/1)
 
 
