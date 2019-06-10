@@ -1,17 +1,19 @@
 # Java EE VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Java-EE-VirtualBox/releases/download/latest/JavaEE.ova) - [VIDEO](https://www.youtube.com/watch?v=gZabXYjjU3k)
 
-![PuTTy](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/putty.png)
-![Eclipse Marketplace](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseMarketplace.png)
-![Eclipse](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/eclipseAbout.png)
-![Jasper](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/jasper.png)
-![SonarLint](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/SonarLint.png)
-![PgAdmin3](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/pgadmin.png)
-![FlleZilla](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/filezilla.png)
-![Mozilla Firefox](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/firefox.png)
-![Chromium](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/chromium.png)
-![Selenium IDE](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/SeleniumIDE.png)
-![Gnumeric](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/gnumeric.png)
-![Mail](https://github.com/Virtual-Machines/Java-EE-VirtualBox/blob/master/mail.png)
+
+
+![PuTTy](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/putty.png)
+![Eclipse Marketplace](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/eclipseMarketplace.png)
+![Eclipse](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/eclipseAbout.png)
+![Jasper](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/jasper.png)
+![SonarLint](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/SonarLint.png)
+![PgAdmin3](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/pgadmin.png)
+![FlleZilla](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/filezilla.png)
+![Mozilla Firefox](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/firefox.png)
+![Chromium](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/chromium.png)
+![Selenium IDE](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/SeleniumIDE.png)
+![Gnumeric](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/gnumeric.png)
+![Mail](https://raw.githubusercontent.com/Virtual-Machines/Anaconda-VirtualBox/master/mail.png)
 
 If you only need Eclipse and browser: [Download Eclipse.ova](https://github.com/Virtual-Machines/Java-EE-VirtualBox/releases/download/latest/Eclipse.ova)
 
